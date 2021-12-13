@@ -1,0 +1,317 @@
+fake_plug.lo: fake_plug.C /home/lippuner/local/include/stdc-predef.h \
+ /home/lippuner/local/include/stdio.h \
+ /home/lippuner/local/include/features.h \
+ /home/lippuner/local/include/sys/cdefs.h \
+ /home/lippuner/local/include/bits/wordsize.h \
+ /home/lippuner/local/include/gnu/stubs.h \
+ /home/lippuner/local/include/gnu/stubs-64.h \
+ /home/lippuner/local/lib/gcc/x86_64-unknown-linux-gnu/5.4.0/include/stddef.h \
+ /home/lippuner/local/include/bits/types.h \
+ /home/lippuner/local/include/bits/typesizes.h \
+ /home/lippuner/local/include/libio.h \
+ /home/lippuner/local/include/_G_config.h \
+ /home/lippuner/local/include/wchar.h \
+ /home/lippuner/local/lib/gcc/x86_64-unknown-linux-gnu/5.4.0/include/stdarg.h \
+ /home/lippuner/local/include/bits/stdio_lim.h \
+ /home/lippuner/local/include/bits/sys_errlist.h \
+ /home/lippuner/local/include/stdlib.h \
+ /home/lippuner/local/include/bits/waitflags.h \
+ /home/lippuner/local/include/bits/waitstatus.h \
+ /home/lippuner/local/include/endian.h \
+ /home/lippuner/local/include/bits/endian.h \
+ /home/lippuner/local/include/bits/byteswap.h \
+ /home/lippuner/local/include/bits/byteswap-16.h \
+ /home/lippuner/local/include/xlocale.h \
+ /home/lippuner/local/include/sys/types.h \
+ /home/lippuner/local/include/time.h \
+ /home/lippuner/local/include/sys/select.h \
+ /home/lippuner/local/include/bits/select.h \
+ /home/lippuner/local/include/bits/sigset.h \
+ /home/lippuner/local/include/bits/time.h \
+ /home/lippuner/local/include/sys/sysmacros.h \
+ /home/lippuner/local/include/bits/pthreadtypes.h \
+ /home/lippuner/local/include/alloca.h \
+ /home/lippuner/local/include/bits/stdlib-float.h \
+ /home/lippuner/local/include/string.h \
+ /home/lippuner/local/include/math.h \
+ /home/lippuner/local/include/bits/math-vector.h \
+ /home/lippuner/local/include/bits/libm-simd-decl-stubs.h \
+ /home/lippuner/local/include/bits/huge_val.h \
+ /home/lippuner/local/include/bits/huge_valf.h \
+ /home/lippuner/local/include/bits/huge_vall.h \
+ /home/lippuner/local/include/bits/inf.h \
+ /home/lippuner/local/include/bits/nan.h \
+ /home/lippuner/local/include/bits/mathdef.h \
+ /home/lippuner/local/include/bits/mathcalls.h ../tempo2.h \
+ /home/lippuner/local/include/bits/timex.h ../TKlongdouble.h \
+ /home/lippuner/local/include/c++/5.4.0/string \
+ /home/lippuner/local/include/c++/5.4.0/x86_64-unknown-linux-gnu/bits/c++config.h \
+ /home/lippuner/local/include/c++/5.4.0/x86_64-unknown-linux-gnu/bits/os_defines.h \
+ /home/lippuner/local/include/c++/5.4.0/x86_64-unknown-linux-gnu/bits/cpu_defines.h \
+ /home/lippuner/local/include/c++/5.4.0/bits/stringfwd.h \
+ /home/lippuner/local/include/c++/5.4.0/bits/memoryfwd.h \
+ /home/lippuner/local/include/c++/5.4.0/bits/char_traits.h \
+ /home/lippuner/local/include/c++/5.4.0/bits/stl_algobase.h \
+ /home/lippuner/local/include/c++/5.4.0/bits/functexcept.h \
+ /home/lippuner/local/include/c++/5.4.0/bits/exception_defines.h \
+ /home/lippuner/local/include/c++/5.4.0/bits/cpp_type_traits.h \
+ /home/lippuner/local/include/c++/5.4.0/ext/type_traits.h \
+ /home/lippuner/local/include/c++/5.4.0/ext/numeric_traits.h \
+ /home/lippuner/local/include/c++/5.4.0/bits/stl_pair.h \
+ /home/lippuner/local/include/c++/5.4.0/bits/move.h \
+ /home/lippuner/local/include/c++/5.4.0/bits/concept_check.h \
+ /home/lippuner/local/include/c++/5.4.0/bits/stl_iterator_base_types.h \
+ /home/lippuner/local/include/c++/5.4.0/bits/stl_iterator_base_funcs.h \
+ /home/lippuner/local/include/c++/5.4.0/debug/debug.h \
+ /home/lippuner/local/include/c++/5.4.0/bits/stl_iterator.h \
+ /home/lippuner/local/include/c++/5.4.0/bits/ptr_traits.h \
+ /home/lippuner/local/include/c++/5.4.0/bits/predefined_ops.h \
+ /home/lippuner/local/include/c++/5.4.0/bits/postypes.h \
+ /home/lippuner/local/include/c++/5.4.0/cwchar \
+ /home/lippuner/local/include/bits/wchar.h \
+ /home/lippuner/local/include/c++/5.4.0/bits/allocator.h \
+ /home/lippuner/local/include/c++/5.4.0/x86_64-unknown-linux-gnu/bits/c++allocator.h \
+ /home/lippuner/local/include/c++/5.4.0/ext/new_allocator.h \
+ /home/lippuner/local/include/c++/5.4.0/new \
+ /home/lippuner/local/include/c++/5.4.0/exception \
+ /home/lippuner/local/include/c++/5.4.0/bits/atomic_lockfree_defines.h \
+ /home/lippuner/local/include/c++/5.4.0/bits/localefwd.h \
+ /home/lippuner/local/include/c++/5.4.0/x86_64-unknown-linux-gnu/bits/c++locale.h \
+ /home/lippuner/local/include/c++/5.4.0/clocale \
+ /home/lippuner/local/include/locale.h \
+ /home/lippuner/local/include/bits/locale.h \
+ /home/lippuner/local/include/c++/5.4.0/iosfwd \
+ /home/lippuner/local/include/c++/5.4.0/cctype \
+ /home/lippuner/local/include/ctype.h \
+ /home/lippuner/local/include/c++/5.4.0/bits/ostream_insert.h \
+ /home/lippuner/local/include/c++/5.4.0/bits/cxxabi_forced.h \
+ /home/lippuner/local/include/c++/5.4.0/bits/stl_function.h \
+ /home/lippuner/local/include/c++/5.4.0/backward/binders.h \
+ /home/lippuner/local/include/c++/5.4.0/bits/range_access.h \
+ /home/lippuner/local/include/c++/5.4.0/bits/basic_string.h \
+ /home/lippuner/local/include/c++/5.4.0/ext/atomicity.h \
+ /home/lippuner/local/include/c++/5.4.0/x86_64-unknown-linux-gnu/bits/gthr.h \
+ /home/lippuner/local/include/c++/5.4.0/x86_64-unknown-linux-gnu/bits/gthr-default.h \
+ /home/lippuner/local/include/pthread.h \
+ /home/lippuner/local/include/sched.h \
+ /home/lippuner/local/include/bits/sched.h \
+ /home/lippuner/local/include/bits/setjmp.h \
+ /home/lippuner/local/include/c++/5.4.0/x86_64-unknown-linux-gnu/bits/atomic_word.h \
+ /home/lippuner/local/include/c++/5.4.0/ext/alloc_traits.h \
+ /home/lippuner/local/include/c++/5.4.0/bits/basic_string.tcc ../TKlog.h \
+ /home/lippuner/local/include/c++/5.4.0/cstdio \
+ /home/lippuner/local/include/c++/5.4.0/ctime ../T2toolkit.h
+
+/home/lippuner/local/include/stdc-predef.h:
+
+/home/lippuner/local/include/stdio.h:
+
+/home/lippuner/local/include/features.h:
+
+/home/lippuner/local/include/sys/cdefs.h:
+
+/home/lippuner/local/include/bits/wordsize.h:
+
+/home/lippuner/local/include/gnu/stubs.h:
+
+/home/lippuner/local/include/gnu/stubs-64.h:
+
+/home/lippuner/local/lib/gcc/x86_64-unknown-linux-gnu/5.4.0/include/stddef.h:
+
+/home/lippuner/local/include/bits/types.h:
+
+/home/lippuner/local/include/bits/typesizes.h:
+
+/home/lippuner/local/include/libio.h:
+
+/home/lippuner/local/include/_G_config.h:
+
+/home/lippuner/local/include/wchar.h:
+
+/home/lippuner/local/lib/gcc/x86_64-unknown-linux-gnu/5.4.0/include/stdarg.h:
+
+/home/lippuner/local/include/bits/stdio_lim.h:
+
+/home/lippuner/local/include/bits/sys_errlist.h:
+
+/home/lippuner/local/include/stdlib.h:
+
+/home/lippuner/local/include/bits/waitflags.h:
+
+/home/lippuner/local/include/bits/waitstatus.h:
+
+/home/lippuner/local/include/endian.h:
+
+/home/lippuner/local/include/bits/endian.h:
+
+/home/lippuner/local/include/bits/byteswap.h:
+
+/home/lippuner/local/include/bits/byteswap-16.h:
+
+/home/lippuner/local/include/xlocale.h:
+
+/home/lippuner/local/include/sys/types.h:
+
+/home/lippuner/local/include/time.h:
+
+/home/lippuner/local/include/sys/select.h:
+
+/home/lippuner/local/include/bits/select.h:
+
+/home/lippuner/local/include/bits/sigset.h:
+
+/home/lippuner/local/include/bits/time.h:
+
+/home/lippuner/local/include/sys/sysmacros.h:
+
+/home/lippuner/local/include/bits/pthreadtypes.h:
+
+/home/lippuner/local/include/alloca.h:
+
+/home/lippuner/local/include/bits/stdlib-float.h:
+
+/home/lippuner/local/include/string.h:
+
+/home/lippuner/local/include/math.h:
+
+/home/lippuner/local/include/bits/math-vector.h:
+
+/home/lippuner/local/include/bits/libm-simd-decl-stubs.h:
+
+/home/lippuner/local/include/bits/huge_val.h:
+
+/home/lippuner/local/include/bits/huge_valf.h:
+
+/home/lippuner/local/include/bits/huge_vall.h:
+
+/home/lippuner/local/include/bits/inf.h:
+
+/home/lippuner/local/include/bits/nan.h:
+
+/home/lippuner/local/include/bits/mathdef.h:
+
+/home/lippuner/local/include/bits/mathcalls.h:
+
+../tempo2.h:
+
+/home/lippuner/local/include/bits/timex.h:
+
+../TKlongdouble.h:
+
+/home/lippuner/local/include/c++/5.4.0/string:
+
+/home/lippuner/local/include/c++/5.4.0/x86_64-unknown-linux-gnu/bits/c++config.h:
+
+/home/lippuner/local/include/c++/5.4.0/x86_64-unknown-linux-gnu/bits/os_defines.h:
+
+/home/lippuner/local/include/c++/5.4.0/x86_64-unknown-linux-gnu/bits/cpu_defines.h:
+
+/home/lippuner/local/include/c++/5.4.0/bits/stringfwd.h:
+
+/home/lippuner/local/include/c++/5.4.0/bits/memoryfwd.h:
+
+/home/lippuner/local/include/c++/5.4.0/bits/char_traits.h:
+
+/home/lippuner/local/include/c++/5.4.0/bits/stl_algobase.h:
+
+/home/lippuner/local/include/c++/5.4.0/bits/functexcept.h:
+
+/home/lippuner/local/include/c++/5.4.0/bits/exception_defines.h:
+
+/home/lippuner/local/include/c++/5.4.0/bits/cpp_type_traits.h:
+
+/home/lippuner/local/include/c++/5.4.0/ext/type_traits.h:
+
+/home/lippuner/local/include/c++/5.4.0/ext/numeric_traits.h:
+
+/home/lippuner/local/include/c++/5.4.0/bits/stl_pair.h:
+
+/home/lippuner/local/include/c++/5.4.0/bits/move.h:
+
+/home/lippuner/local/include/c++/5.4.0/bits/concept_check.h:
+
+/home/lippuner/local/include/c++/5.4.0/bits/stl_iterator_base_types.h:
+
+/home/lippuner/local/include/c++/5.4.0/bits/stl_iterator_base_funcs.h:
+
+/home/lippuner/local/include/c++/5.4.0/debug/debug.h:
+
+/home/lippuner/local/include/c++/5.4.0/bits/stl_iterator.h:
+
+/home/lippuner/local/include/c++/5.4.0/bits/ptr_traits.h:
+
+/home/lippuner/local/include/c++/5.4.0/bits/predefined_ops.h:
+
+/home/lippuner/local/include/c++/5.4.0/bits/postypes.h:
+
+/home/lippuner/local/include/c++/5.4.0/cwchar:
+
+/home/lippuner/local/include/bits/wchar.h:
+
+/home/lippuner/local/include/c++/5.4.0/bits/allocator.h:
+
+/home/lippuner/local/include/c++/5.4.0/x86_64-unknown-linux-gnu/bits/c++allocator.h:
+
+/home/lippuner/local/include/c++/5.4.0/ext/new_allocator.h:
+
+/home/lippuner/local/include/c++/5.4.0/new:
+
+/home/lippuner/local/include/c++/5.4.0/exception:
+
+/home/lippuner/local/include/c++/5.4.0/bits/atomic_lockfree_defines.h:
+
+/home/lippuner/local/include/c++/5.4.0/bits/localefwd.h:
+
+/home/lippuner/local/include/c++/5.4.0/x86_64-unknown-linux-gnu/bits/c++locale.h:
+
+/home/lippuner/local/include/c++/5.4.0/clocale:
+
+/home/lippuner/local/include/locale.h:
+
+/home/lippuner/local/include/bits/locale.h:
+
+/home/lippuner/local/include/c++/5.4.0/iosfwd:
+
+/home/lippuner/local/include/c++/5.4.0/cctype:
+
+/home/lippuner/local/include/ctype.h:
+
+/home/lippuner/local/include/c++/5.4.0/bits/ostream_insert.h:
+
+/home/lippuner/local/include/c++/5.4.0/bits/cxxabi_forced.h:
+
+/home/lippuner/local/include/c++/5.4.0/bits/stl_function.h:
+
+/home/lippuner/local/include/c++/5.4.0/backward/binders.h:
+
+/home/lippuner/local/include/c++/5.4.0/bits/range_access.h:
+
+/home/lippuner/local/include/c++/5.4.0/bits/basic_string.h:
+
+/home/lippuner/local/include/c++/5.4.0/ext/atomicity.h:
+
+/home/lippuner/local/include/c++/5.4.0/x86_64-unknown-linux-gnu/bits/gthr.h:
+
+/home/lippuner/local/include/c++/5.4.0/x86_64-unknown-linux-gnu/bits/gthr-default.h:
+
+/home/lippuner/local/include/pthread.h:
+
+/home/lippuner/local/include/sched.h:
+
+/home/lippuner/local/include/bits/sched.h:
+
+/home/lippuner/local/include/bits/setjmp.h:
+
+/home/lippuner/local/include/c++/5.4.0/x86_64-unknown-linux-gnu/bits/atomic_word.h:
+
+/home/lippuner/local/include/c++/5.4.0/ext/alloc_traits.h:
+
+/home/lippuner/local/include/c++/5.4.0/bits/basic_string.tcc:
+
+../TKlog.h:
+
+/home/lippuner/local/include/c++/5.4.0/cstdio:
+
+/home/lippuner/local/include/c++/5.4.0/ctime:
+
+../T2toolkit.h:
